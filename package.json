@@ -4,7 +4,8 @@
   "description": "Аргументы командной строки и console",
   "main": "index.js",
   "bin": {
-    "dat": "./date.js"
+    "dat": "./date.js",
+    "guess-num": "./nubmer.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
